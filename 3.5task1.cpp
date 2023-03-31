@@ -17,7 +17,7 @@ main() {
 		printf("%i\n", j);
 		j++;
 	}
-	//Вывод нечетных
+	//no odd
 	int k = 0;
 	printf("Only ne4etnie numbers\n");
 	while(k<=15) {
